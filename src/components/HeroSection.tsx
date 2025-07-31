@@ -50,7 +50,7 @@ const HeroSection = () => {
                     headerTitle: "text-2xl font-bold text-foreground mb-2",
                     headerSubtitle: "text-muted-foreground mb-6",
                     formFieldLabel: "text-foreground font-medium mb-2 block",
-                    formFieldInput: "bg-background/50 border-border text-foreground placeholder:text-muted-foreground",
+                    formFieldInput: "bg-background/50 !border !border-white text-foreground placeholder:text-muted-foreground",
                     footer: "hidden",
                     footerAction: "hidden"
                   }
